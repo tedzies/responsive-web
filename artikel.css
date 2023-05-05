@@ -42,8 +42,9 @@ section.hero {
 }
 
 section.hero img {
-    max-width: 100%;
-    height: auto;
+    width: 400px;
+    height: 400px;
+    margin-right: 80px;
 }
 
 section.hero .hero-description {
@@ -60,7 +61,7 @@ section.hero h1 {
 
 section.hero p {
     font-family: 'Poppins', sans-serif;
-	font-size: 15px;
+	font-size: 20px;
 	margin-left: 100px;
 	margin-top: 10px;
 	margin-bottom: 0px;
