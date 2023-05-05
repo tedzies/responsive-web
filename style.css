@@ -32,6 +32,8 @@ nav{
   color: #0081C9;
 }
 
-/* .title-page{
-  color: #334155;
-} */
+.navbar{
+  position:static;
+  background-color: #0081C9;
+  padding: 8px 0px;
+}
